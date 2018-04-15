@@ -1,0 +1,8 @@
+C:\Users\user\myHR2u>react-native link react-native-datepicker
+//still not working
+
+C:\Users\user\myHR2u>npm update
+
+C:\Users\user\myHR2u>npm install react-native --save //timpa isinya node_modules dg update baru
+
+C:\Users\user\myHR2u>npm install --resetcache
